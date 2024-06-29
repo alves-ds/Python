@@ -1,5 +1,5 @@
 from calculadora import Calculadora
 
-calc = Calculadora(1, 2, 4)
+calc = Calculadora()
+calc.executar()
 
-calc.verificar_op()
