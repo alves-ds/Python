@@ -1,6 +1,6 @@
 # Anotações
 
-Projeto: Conjunto de pacotes, módulos e outros recursos necessários para desenvolver, distribuir e manter o software.
+*Projeto*: Conjunto de pacotes, módulos e outros recursos necessários para desenvolver, distribuir e manter o software.
 
 Pacote: Diretório contendo múltiplos módulos e um arquivo __init__.py.
 
